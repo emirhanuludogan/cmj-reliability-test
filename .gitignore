@@ -1,0 +1,20 @@
+# Python Ön Bellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortam
+venv/
+env/
+.env
+
+# Büyük Veri ve Medya Dosyaları (Videoları GitHub'a Yükleme)
+data/raw_videos/*.mov
+data/raw_videos/*.mp4
+results/*.mp4
+results/*.mov
+results/plots/
+
+# İşletim Sistemi Kalıntıları
+.DS_Store
+Thumbs.db
