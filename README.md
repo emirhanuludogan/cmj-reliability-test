@@ -19,5 +19,5 @@ Projeyi lokalinizde çalıştırmak için:
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/cmj-reliability-test.git](https://github.com/KULLANICI_ADIN/cmj-reliability-test.git)
+   git clone [https://github.com/emirhanuludogan/cmj-reliability-test.git](https://github.com/emirhanuludogan/cmj-reliability-test.git)
    cd cmj-reliability-test
